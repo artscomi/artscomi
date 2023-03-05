@@ -24,12 +24,12 @@ and I love building pixel-perfect interfaces
 <br>
 <br> 
 
-How to reach me: 
+How to reach me: 📫 [mail](mailto:cristina.luerti@gmail.com)  :camera: [instagram](https://www.instagram.com/artscomi/)  :desktop_computer:  [linkedin](https://www.linkedin.com/in/cristina-eleonora-luerti-8b57601b/)
 
-📫 [mail](mailto:cristina.luerti@gmail.com)
 
-:camera: [instagram](https://www.instagram.com/artscomi/)
 
-:desktop_computer: [linkedin](https://www.linkedin.com/in/cristina-eleonora-luerti-8b57601b/)
+
+
+
 
 
