@@ -19,6 +19,11 @@ and I love building pixel-perfect interfaces
 <br> 
 <br> 
 <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artscomi&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br> 
+<br>
+<br> 
+
 How to reach me: 
 
 📫 [mail](mailto:cristina.luerti@gmail.com)
@@ -26,9 +31,5 @@ How to reach me:
 :camera: [instagram](https://www.instagram.com/artscomi/)
 
 :desktop_computer: [linkedin](https://www.linkedin.com/in/cristina-eleonora-luerti-8b57601b/)
-<br> 
-<br>
-<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artscomi&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
