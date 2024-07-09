@@ -13,8 +13,6 @@ I'm interested in **React**, **TypeScript**, and **JavaScript**, but my heart be
 :sparkling_heart: I am passionate about the presentation layer
 and I love building pixel-perfect interfaces
 
-🌱 I’m currently learning React
-
 :eyes: I’m looking to collaborate on projects with amazing user interfaces that people love to use
 <br> 
 <br> 
